@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="${1:utf-8}">
+    ${2:<link rel="author" href="humans.txt" />}
+    <title>${3:Page Title}</title>
+  </head>
+  <body>
+    $0
+  </body>
+  </html>
+]]></content>
+<tabTrigger>html5</tabTrigger>
+</snippet>
+
+
